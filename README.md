@@ -1,7 +1,7 @@
 #  E-commerce tradicional - Banco de Dados - Projeto da Residência Full Stack
 ![Projeto Finalizado](https://img.shields.io/badge/Status-Projeto%20Finalizado-brightgreen)
 
-## Grupo 4 - Team Members 👥
+## Grupo 3 - Team Members 👥
 - Michele Moreira
 - Fernanda Canto
 - Brenda Chaves
